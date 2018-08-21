@@ -16,3 +16,5 @@ Today:
 
 Links:
 
+* <https://ucsb-cs56-pconrad.github.io/tutorials/rational_ex14>
+* <https://ucsb-cs56-pconrad.github.io/tutorials/rational_ex15>
